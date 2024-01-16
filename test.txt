@@ -8,6 +8,7 @@ dfas
 dfs
 adf
 asdf
+<<<<<<< HEAD
 
 ㅁㅇㄻㄴㅇㄻ
 ㅇㄻㄴㄹ
@@ -15,3 +16,25 @@ asdf
 ㅁㄴㅇㄹ
 ㅁㄴㅇㄹ
 ㅁㄴㅇㄹ
+=======
+000
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+asldjfhasd
+fa
+sdfjksladasdlkfjsdlaf
+>>>>>>> cc555bdcb402ea4468cc76d3a55af1be4d66e4e8
